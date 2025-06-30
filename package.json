@@ -1,0 +1,12 @@
+{
+  "name": "my-odoo-form",
+  "version": "1.0.0",
+  "description": "Simple form to send data to Odoo",
+  "main": "api/submit.js",
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "dependencies": {
+    "axios": "^1.6.8"
+  }
+}
